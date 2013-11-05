@@ -94,6 +94,6 @@
         </div>
     </div>
     <div class="back-link">
-         <a href="Default.aspx">Back to books</a>
+         <a href="../Default.aspx">Back to books</a>
     </div>
 </asp:Content>
